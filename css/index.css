@@ -5,7 +5,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url("/img/pic.jpg");
+  background-image: url("../img/pic.jpg");
 
   background-position: center;
   background-repeat: no-repeat;
@@ -52,15 +52,15 @@ footer {
 
 footer ul i{
   color:mediumblue;
-} 
+}
 footer ul a {
   color: whitesmoke;
-  
-}  
+
+}
 
 
 
-  
+
 @media screen and (max-width: 600px){
   .topnav a:not(:first-child){display:none;}
   .topnav a.icon{
@@ -82,6 +82,6 @@ footer ul a {
       text-align: left;
     }
 
-  
+
 }
 

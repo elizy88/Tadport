@@ -1,14 +1,14 @@
 body{
-  background-image: url("/img/856.jpg");
+  background-image: url("../img/856.jpg");
 }
 
     .about {
-  
+
         font-family:Arial,helvetica, sans-serif;
         font-style:italic;
         font-size: 16px;
         text-transform:capitalize;
-        text-align: center; 
+        text-align: center;
         padding:100px;
       }
       .img {
@@ -16,5 +16,5 @@ body{
         width: 200px;
         height: 200px;
         margin-left: 90px;
-        
+
       }
